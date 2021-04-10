@@ -3,7 +3,7 @@ title: Home
 template: home
 author: e77e656f-c35f-4029-b9ef-a9ecb259a199
 updated_by: e77e656f-c35f-4029-b9ef-a9ecb259a199
-updated_at: 1618024664
+updated_at: 1618030513
 bard:
   -
     type: paragraph
@@ -35,7 +35,7 @@ id: home
 \
 Hi, I'm Jeremy.  
 \
-I'm a full stack Laravel developer. I like coffee, music, books, movies, and drawing.  
+I'm a full stack Laravel developer. I like coffee, [music](https://music.apple.com/profile/jrmypttrsn), [books](https://www.goodreads.com/user/show/7634192-jeremy-patterson), [movies](https://letterboxd.com/jrmypttrsn/), [drawing and photography](https://www.instagram.com/jrmypttrsn/).  
 \
 [github](https://github.com/jrmypttrsn)  
 \
